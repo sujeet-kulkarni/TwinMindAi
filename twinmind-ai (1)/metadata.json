@@ -1,0 +1,6 @@
+{
+  "name": "TwinMind AI",
+  "description": "Digital Twin platform for hyper-personalized marketing. Experience interactive real-time predictions, campaign simulations, and future customer behavior modeling using intelligent virtual representations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
